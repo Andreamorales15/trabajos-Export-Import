@@ -1,0 +1,1 @@
+import { enRango } from "./1.";
